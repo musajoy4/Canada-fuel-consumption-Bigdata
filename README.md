@@ -1,12 +1,10 @@
-# Canada-fuel-consumption-Bigdata
-The Fuel Economy dataset is a comprehensive collection of vehicle performance and environmental metrics of several vehicle models spanning from 1995 to 2024
 # Big Data Project -- Fuel Economy Analysis (1995--2024)
 
 ## 📌 Overview
 
 This project analyzes the **Fuel Economy dataset** (1995--2024), a
 comprehensive collection of vehicle performance and environmental
-metrics with \~23,200 records. The data was sourced from
+metrics with 23,200 records. The data was sourced from
 [open.canada.ca](https://open.canada.ca/data), cleaned, transformed, and
 processed using **MongoDB, Python (pandas), SSIS, SQL Server, SSAS, and
 Tableau**.
