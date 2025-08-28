@@ -1,6 +1,6 @@
 # Big Data Project -- Fuel Economy Analysis (1995--2024)
 
-## 📌 Overview
+## Overview
 
 This project analyzes the **Fuel Economy dataset** (1995--2024), a
 comprehensive collection of vehicle performance and environmental
